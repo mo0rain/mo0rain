@@ -7,6 +7,8 @@
 
 ---
 
+![mo0rain](https://profile-counter.glitch.me/mo0rain/count.svg)
+
 ---
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
